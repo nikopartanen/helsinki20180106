@@ -88,17 +88,22 @@ library(widgetframe)
 - Alkoi Putinin kommentista
 - Suomalais-ugrilaisten alueiden lisäksi koskee mm. Bashkiriaa, Tuvaa, Tatarstania jne.
 
-## Mitä tapahtui?
+## Mitä Komissa tapahtuu?
 
 - Ei ole selvää, komilaiset kansalaisjärjestöt aktiivisia
 - Mitä lain lykkäys käytännössä tarkoittaa?
+- On viitteitä lykkäyksen symbolisuudesta
 
-## Komista kulkeutuneita huolia
+## Komista kuuluneita tietoja 1/2
 
 - Opettajat pelkäävät työpaikkojensa puolesta
-- Suuri uhka myös äidinkielisten lasten opetuksen turvaamiselle
+- Uudelleenkoulutusta ilmeisesti suunniteltu
 - Muuttuuko komin opetus aineiksi kuten etnokulttuuri, folklore tai paikallishistoria?
+
+## Komista kuuluneita tietoja 2/2
+
 - Nyt käytettyjen koulukirjojen laillisuus ollut myös esillä
+- Opettajia ohjeistettu olemaan antamatta arvosanoja tai läksyjä komin kielestä
 
 ## Kouluopetus nyt
 
@@ -119,6 +124,7 @@ library(widgetframe)
 - Komin opetus venäläisille on puhututtanut jatkuvasti, mutta varsinaisia lakimuutoksia ei ole ollut
     - Esim. vuonna 2014 kerättiin nimiä opetusta vastaan Vorkutassa
 - On silti epäselvää, kuinka suuri osa koululaisista on kaikkiaan komin opetuksen piirissä
+    - ~4000 oppilasta suhteessa komisyrjäänin puhujien määrään ei ole paljoa 
 
 ## {data-background="https://imgur.com/RtvswgE.png" data-background-size="75%"}
 
@@ -126,4 +132,9 @@ library(widgetframe)
 
 ## {data-background="https://imgur.com/QfeQb9j.png" data-background-size="60%"}
 
-## 
+## Yhteenvetoa
+
+- Käynnissä laajamittainen komin arvonalennus
+- Muutetaan kouluissa "alemman tason" oppiaineeksi
+    - Ei arvosanoja, ei läksyjä
+- Mitä seurauksia komin opetuksen jatkuvuuteen muilla tasoilla?
