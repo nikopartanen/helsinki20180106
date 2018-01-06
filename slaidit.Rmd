@@ -1,0 +1,129 @@
+---
+output: 
+  revealjs::revealjs_presentation:
+    theme: white
+    transition: none
+    css: custom.css
+    self_contained: true
+    center: true
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning=FALSE, message=FALSE, error=FALSE, dpi = 400,fig.cap = "", cache = T, echo=FALSE)
+```
+
+# Komin kielipolitiikka kontekstissaan
+
+<!-- prikaasi -->
+
+## {data-background="https://imgur.com/PMChN7Z.png" data-background-size="75%"}
+
+
+```{r, echo=FALSE}
+library(tidyverse)
+library(readxl)
+```
+
+```{r, echo=FALSE}
+
+library(sf)
+library(htmlwidgets)
+library(widgetframe)
+
+```
+
+
+## Hieman taustaa
+
+##
+
+- Komin kielellä on virallinen asema Komin tasavallassa
+- Puhujia satoja tuhansia
+- Suuri puhuma-alue, pieni väestöntiheys
+- Nopea kielenvaihto kaupungistumisen yhteydessä
+- Monilla alueilla kylät kaukana toisistaan
+
+## Missä komia puhutaan?
+
+## {data-background="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Map_of_Russia_-_Komi.svg/1200px-Map_of_Russia_-_Komi.svg.png" data-background-size="75%"}
+
+
+## {data-background="https://upload.wikimedia.org/wikipedia/commons/8/82/Relief_Map_of_Komi_Republic.png" data-background-size="50%"}
+
+<!-- joki --> 
+
+## {data-background="https://upload.wikimedia.org/wikipedia/commons/e/ea/%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D1%80%D0%B5%D0%BA%D1%83._-_panoramio.jpg" data-background-size="60%"}
+
+## {data-background="https://upload.wikimedia.org/wikipedia/commons/e/e7/Syktyvkar%2C_Komi_Republic%2C_Russia_-_panoramio_%282%29.jpg" data-background-size="60%"}
+
+## {data-background="https://upload.wikimedia.org/wikipedia/commons/e/ef/Syktyvdinsky_District%2C_Komi_Republic%2C_Russia_-_panoramio_%283%29.jpg" data-background-size="60%"}
+
+
+## Historiasta
+
+## {data-background="https://upload.wikimedia.org/wikipedia/commons/8/83/1989_CPA_6082.jpg" data-background-size="75%"}
+
+## {data-background="https://imgur.com/PYTvswS.png" data-background-size="50%"}
+
+<!-- prikaasi -->
+
+## {data-background="https://imgur.com/PMChN7Z.png" data-background-size="75%"}
+
+##
+
+- 26.10.2017 ilmestyi prikaasi 633
+    - Aikataulu muutokselle 1.1.2018
+    - Olisi poistanut komin kielen pakollisena oppiaineena kouluissa, kytkenyt sen vanhempien päätökseen
+- 14.11.2017 tasavallan päämies Sergei Gaplikov lykkäsi toimeenpanoa
+    - Uusi laki ei (?) astunut voimaan
+- 25.12.2017 uusi prikaasi
+- Ilmeisesti 9.1.2018 taas jotain uutta
+
+
+## Miksi näin?
+
+- Samanlaisia lakimuutoksia eri puolilla Venäjää
+- Alkoi Putinin kommentista
+- Suomalais-ugrilaisten alueiden lisäksi koskee mm. Bashkiriaa, Tuvaa, Tatarstania jne.
+
+## Mitä tapahtui?
+
+- Ei ole selvää, komilaiset kansalaisjärjestöt aktiivisia
+- Mitä lain lykkäys käytännössä tarkoittaa?
+
+## Komista kulkeutuneita huolia
+
+- Opettajat pelkäävät työpaikkojensa puolesta
+- Suuri uhka myös äidinkielisten lasten opetuksen turvaamiselle
+- Muuttuuko komin opetus aineiksi kuten etnokulttuuri, folklore tai paikallishistoria?
+- Nyt käytettyjen koulukirjojen laillisuus ollut myös esillä
+
+## Kouluopetus nyt
+
+##
+
+- Nykyinen laki muistuttaa jossain määrin Suomen tilannetta
+- Komin kieli on ollut kouluissa pakollinen oppiaine
+- Käytännössä kaksi linjaa:
+    - Äidinkielen ja vieraan kielen
+    - Jälkimmäinen venäjäksi
+- **Opetus näyttää yleistyneen paljon vuoden 2009 jälkeen**
+
+## {data-background="https://imgur.com/yMzMxyZ.png" data-background-size="75%"}
+
+##
+
+- Yleinen tendenssi äidinkielisen opetuksen vähenemiselle
+- Komin opetus venäläisille on puhututtanut jatkuvasti, mutta varsinaisia lakimuutoksia ei ole ollut
+    - Esim. vuonna 2014 kerättiin nimiä opetusta vastaan Vorkutassa
+- On silti epäselvää, kuinka suuri osa koululaisista on kaikkiaan komin opetuksen piirissä
+
+## {data-background="https://imgur.com/RtvswgE.png" data-background-size="75%"}
+
+## {data-background="https://imgur.com/0xHg46U.png" data-background-size="60%"}
+
+## {data-background="https://imgur.com/QfeQb9j.png" data-background-size="60%"}
+
+## 
