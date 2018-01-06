@@ -16,6 +16,9 @@ knitr::opts_chunk$set(warning=FALSE, message=FALSE, error=FALSE, dpi = 400,fig.c
 
 # Komin kielipolitiikka kontekstissaan
 
+Niko Partanen
+Sukukansojen ystävät ry
+
 <!-- prikaasi -->
 
 ## {data-background="https://imgur.com/PMChN7Z.png" data-background-size="75%"}
@@ -138,3 +141,10 @@ library(widgetframe)
 - Muutetaan kouluissa "alemman tason" oppiaineeksi
     - Ei arvosanoja, ei läksyjä
 - Mitä seurauksia komin opetuksen jatkuvuuteen muilla tasoilla?
+
+## Kiitos!
+
+- Keskustelunaiheita:
+    - Mitä muissa tasavalloissa tarkalleen tapahtuu?
+    - Mitä Putin tarkalleen sanoi?
+    - Mitä tästä oikeasti seuraa?
