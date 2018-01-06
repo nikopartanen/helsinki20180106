@@ -133,7 +133,7 @@ library(widgetframe)
 
 ## {data-background="https://imgur.com/0xHg46U.png" data-background-size="60%"}
 
-## {data-background="https://imgur.com/QfeQb9j.png" data-background-size="60%"}
+## {data-background="https://imgur.com/QfeQb9j.png" data-background-size="55%"}
 
 ## Yhteenvetoa
 
