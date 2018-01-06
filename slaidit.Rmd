@@ -48,13 +48,6 @@ library(widgetframe)
 - Nopea kielenvaihto kaupungistumisen yhteydessä
 - Monilla alueilla kylät kaukana toisistaan
 
-##
-
-- Nykyinen kielilaki turvaa mm.
-    - Komin kieli ja kirjallisuus oppiaineena
-    - Kyltit ja erilaiset dokumentit
-    - Lakikäännökset
-
 ## Missä komia puhutaan?
 
 ## {data-background="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Map_of_Russia_-_Komi.svg/1200px-Map_of_Russia_-_Komi.svg.png" data-background-size="75%"}
@@ -76,6 +69,14 @@ library(widgetframe)
 ## {data-background="https://upload.wikimedia.org/wikipedia/commons/8/83/1989_CPA_6082.jpg" data-background-size="75%"}
 
 ## {data-background="https://imgur.com/PYTvswS.png" data-background-size="50%"}
+
+##
+
+- Nykyinen kielilaki turvaa mm.
+    - Komin kieli ja kirjallisuus oppiaineena
+    - Kyltit ja erilaiset dokumentit
+    - Lakikäännökset
+
 
 <!-- prikaasi -->
 
